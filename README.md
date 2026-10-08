@@ -12,7 +12,5 @@
 
 ### 🚀 Projects
 
-### 🚀 Projects
-
 - [Dhaka Bus Finder](https://github.com/abdulahad05213/Dhaka-Bus-Finder) — A HTML, CSS project for finding bus routes in Dhaka.
 
